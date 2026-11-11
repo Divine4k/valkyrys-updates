@@ -1,35 +1,17 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.2.0.zip",
-  "sha256": "2801cd5a943d702c7ea2b4b19c63991d6b4763b876cb9b5c62fb270c5cc2962d",
-  "size": 2236700,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.2.1.zip",
+  "sha256": "e3b475dc784efd83382bf7964814dea1896d895d8d613693b235c42a26d9ae56",
+  "size": 2240837,
   "minLoader": 1,
   "notes": [
     {
-      "type": "new",
-      "nl": "Controleer op updates en installeer ze vanuit de app zelf, bij Instellingen › Updates. Na de installatie herstart je de app met één klik.",
-      "en": "Check for updates and install them from inside the app, in Settings › Updates. After installing, restart the app with one click.",
-      "pl": "Sprawdzaj i instaluj aktualizacje bezpośrednio w aplikacji, w Ustawienia › Aktualizacje. Po instalacji uruchom aplikację ponownie jednym kliknięciem."
-    },
-    {
-      "type": "new",
-      "nl": "Is er een nieuwe versie, dan meldt de app dat onderaan het scherm en krijgt Instellingen een stip. Sluit je de melding, dan zie je hem pas weer bij een nog nieuwere versie.",
-      "en": "When a new version is out, the app says so at the bottom of the screen and Settings gets a dot. If you close the notice, it only comes back for an even newer version.",
-      "pl": "Gdy pojawi się nowa wersja, aplikacja informuje o tym na dole ekranu, a przy Ustawieniach pojawia się kropka. Jeśli zamkniesz komunikat, wróci dopiero przy jeszcze nowszej wersji."
-    },
-    {
-      "type": "new",
-      "nl": "Klap de zijbalk in tot een smalle rij pictogrammen met de knop „Inklappen” onderaan (of Ctrl+B), en klap hem op dezelfde manier weer uit. De app onthoudt je keuze.",
-      "en": "Collapse the sidebar to a narrow row of icons with the “Collapse” button at the bottom (or Ctrl+B), and expand it again the same way. The app remembers your choice.",
-      "pl": "Zwiń pasek boczny do wąskiej kolumny ikon przyciskiem „Zwiń” na dole (lub Ctrl+B) i rozwiń go z powrotem w ten sam sposób. Aplikacja zapamiętuje Twój wybór."
-    },
-    {
       "type": "improved",
-      "nl": "De zijbalk is smaller, zodat er meer ruimte is voor je facturen en statistieken.",
-      "en": "The sidebar is narrower, so there is more room for your invoices and statistics.",
-      "pl": "Pasek boczny jest węższy, więc jest więcej miejsca na faktury i statystyki."
+      "nl": "De grafiek bij Statistieken zegt meer: een lichte schaal in euro’s, een stippellijn met het gemiddelde per periode, het bedrag boven de hoogste staaf en een markering bij de huidige periode. Per week staan de maanden eronder. Wijs een staaf aan (of ga er met de pijltjestoetsen langs) voor de periode, het bedrag, het aantal facturen en de dagen; klik erop voor de details, net als in de tabel.",
+      "en": "The chart in Statistics tells you more: a light scale in euros, a dashed line with the average per period, the amount above the highest bar and a marker at the current period. By week, the months are shown underneath. Point at a bar (or move along them with the arrow keys) for the period, amount, number of invoices and days; click it for the details, just like in the table.",
+      "pl": "Wykres w Statystykach mówi więcej: delikatna skala w euro, przerywana linia ze średnią na okres, kwota nad najwyższym słupkiem i oznaczenie bieżącego okresu. W widoku tygodniowym pod spodem widać miesiące. Wskaż słupek (lub przechodź po nich strzałkami), aby zobaczyć okres, kwotę, liczbę faktur i dni; kliknij, aby zobaczyć szczegóły, tak jak w tabeli."
     }
   ],
-  "signature": "WIAfkJHyFXJgRn8/8hF977EzWl8MPc1FNxoIeZesXMQ49rx52TlVHz4RiIJjhZNAVY4x/w487fPHh/Yn6ChEBw=="
+  "signature": "HB+hAskJ/orY4zEkYCPfbX4cTfsK995eqzUH18j62iVwr4tYyrcf3wqZ81S9D89ll5rv0JlWFV9MNpnowqJ/Ag=="
 }
