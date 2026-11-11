@@ -1,17 +1,23 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.2.zip",
-  "sha256": "8ae2ca1a3e317828bc95cb04d35a032828f3140965d956282d9a290998edfb3e",
-  "size": 2291018,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.3.zip",
+  "sha256": "9c1eab7fe2b361c756e5a1a394b28a218f99254894895db280ce45a17523dbce",
+  "size": 2293204,
   "minLoader": 1,
   "notes": [
     {
+      "type": "improved",
+      "nl": "Instellingen hebben nu tabbladen, zodat je alles sneller vindt.",
+      "en": "Settings now have tabs, so you find everything faster.",
+      "pl": "Ustawienia mają teraz zakładki, więc szybciej wszystko znajdziesz."
+    },
+    {
       "type": "new",
-      "nl": "Factuur zonder inkooporder: klik op + Nieuw naast het factuurnummer, bijvoorbeeld voor een andere klant.",
-      "en": "Invoice without a purchase order: click + New next to the invoice number, for example for another client.",
-      "pl": "Faktura bez zamówienia: kliknij + Nowa obok numeru faktury, na przykład dla innego klienta."
+      "nl": "Nieuw thema: Gedimd, een zachter donker thema.",
+      "en": "New theme: Dim, a softer dark theme.",
+      "pl": "Nowy motyw: Przygaszony, łagodniejszy ciemny motyw."
     }
   ],
-  "signature": "tIkisxIEY/+fkP8TQ90aBAKIq8NCIMzKBfPCzHtqslSCFUc3bmkOKZDZeI9dfrzZyQg0K24rvWjWmi0xA0ddBw=="
+  "signature": "jFw9NSAEhAGOJ+wes0oivr9ur0HqzFsNoplaLtLuuSkTCZDWncMGRRtgxwXXYTifL9tr90V8i3mO+rBfigCBDQ=="
 }
