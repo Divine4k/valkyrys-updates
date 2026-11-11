@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.0.zip",
-  "sha256": "96723542f55a17afc7100ebab6376a75de0412c4f377ffdbeac7fce2577b3262",
-  "size": 2286841,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.1.zip",
+  "sha256": "f0086a2462f5f2cc814d7cff2cf589271a61e5685f091cf20c3da6de571987ba",
+  "size": 2287719,
   "minLoader": 1,
   "notes": [
     {
@@ -19,5 +19,5 @@
       "pl": "Powiadomienie na dole ekranu, gdy z poczty pobrano zamówienia zakupu, także tuż po otwarciu aplikacji. Gdy aplikacja jest w tle, dostajesz powiadomienie Windows, a aplikacja miga na pasku zadań. W Połączeniach wybierasz, czy nowe zamówienia mają być pobierane automatycznie, czy aplikacja ma najpierw zapytać."
     }
   ],
-  "signature": "vUeRXNy71f7s7DNLdQ/HfFTE4AEp9xuhPtRLlRgmkjkusBF5l1kigZ6LF2izH6ltdj9z5RtdRP2hgZPH0j9LDg=="
+  "signature": "wcZc/4t/ksVOPl9knipHnOIzsTQ81HYsCloU9LRNe7XXSPSMdOGYZykvTw+d91n6RGXF7jNFC1mYGbR2NQ9NAg=="
 }
