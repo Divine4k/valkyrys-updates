@@ -1,17 +1,10 @@
 {
-  "version": "1.3.11",
+  "version": "1.3.12",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.11.zip",
-  "sha256": "f4ea6eac8e7a76801e8609887fa1fcdbd3a54e33833a551f418cfd7ab80cb9d2",
-  "size": 2318574,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.12.zip",
+  "sha256": "256d6c3f992547fe22b9fb82a670431a326bf28d820bbf3168963d023545efdf",
+  "size": 2320322,
   "minLoader": 1,
-  "notes": [
-    {
-      "type": "improved",
-      "nl": "Mappen op een USB-stick of externe schijf: loskoppelen en weer aansluiten gaat vanzelf goed.",
-      "en": "Folders on a USB stick or external drive: unplugging and plugging back in is handled automatically.",
-      "pl": "Foldery na pendrive lub dysku zewnętrznym: odłączenie i ponowne podłączenie działa automatycznie."
-    }
-  ],
-  "signature": "CCiCuv7tVQV4a/VSVn3FGMnO+7n4poHFfi9j8I6JslbihAD+2LclbnMwJn/RciyKhS7LWKLaLK+mwRhAbM8+DQ=="
+  "notes": [],
+  "signature": "ihtC8LOf3qec4tbFqzY8tlLNGrToZzNiFi6NKlyzLLpjOhGf/CF/NG9gA38FG208syBqgE15iMCNwcTNlTkcCQ=="
 }
