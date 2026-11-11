@@ -1,23 +1,10 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.3.zip",
-  "sha256": "9c1eab7fe2b361c756e5a1a394b28a218f99254894895db280ce45a17523dbce",
-  "size": 2293204,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.4.zip",
+  "sha256": "866bf9331fa7ad11250276e4e670993a6161e506539fd235c2b79c30be08e84e",
+  "size": 2293691,
   "minLoader": 1,
-  "notes": [
-    {
-      "type": "improved",
-      "nl": "Instellingen hebben nu tabbladen, zodat je alles sneller vindt.",
-      "en": "Settings now have tabs, so you find everything faster.",
-      "pl": "Ustawienia mają teraz zakładki, więc szybciej wszystko znajdziesz."
-    },
-    {
-      "type": "new",
-      "nl": "Nieuw thema: Gedimd, een zachter donker thema.",
-      "en": "New theme: Dim, a softer dark theme.",
-      "pl": "Nowy motyw: Przygaszony, łagodniejszy ciemny motyw."
-    }
-  ],
-  "signature": "jFw9NSAEhAGOJ+wes0oivr9ur0HqzFsNoplaLtLuuSkTCZDWncMGRRtgxwXXYTifL9tr90V8i3mO+rBfigCBDQ=="
+  "notes": [],
+  "signature": "pXUZsaKpZUfSGyelglZZCzU7eX4gRAntOYh2si7c6ny27pvx3rXevIecUA7ITERhdfS+w2vru0mTCOYviagBAg=="
 }
