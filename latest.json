@@ -1,17 +1,17 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.5.zip",
-  "sha256": "cc46a38e883044954953e67c9f98b9c48c502d3f3bf9fe4506771f4807e26b2a",
-  "size": 2297761,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.6.zip",
+  "sha256": "11efb65ed05caa7dc2b611c9619ec1236b4a1f8dc6572358be47024d8877c32a",
+  "size": 2306295,
   "minLoader": 1,
   "notes": [
     {
-      "type": "improved",
-      "nl": "Stap voor stap: zo koppel je Gmail of WP Poczta, met knoppen naar de juiste pagina’s.",
-      "en": "Step by step: how to connect Gmail or WP Poczta, with buttons to the right pages.",
-      "pl": "Krok po kroku: jak połączyć Gmail lub WP Pocztę, z przyciskami do właściwych stron."
+      "type": "new",
+      "nl": "Facturen per e-mail versturen: vink ze aan bij Documenten en klik op Per e-mail versturen.",
+      "en": "Send invoices by email: tick them in Documents and click Send by email.",
+      "pl": "Wysyłaj faktury e-mailem: zaznacz je w Dokumentach i kliknij Wyślij e-mailem."
     }
   ],
-  "signature": "ALMhOJjetiB2gQmrrgo8EekoKJWdShT4g9B36u71pmW+PVgTBr+TLTFfjOINxFExTGkKE2ps4KVv35KPDieBBw=="
+  "signature": "V22NN0e+prNASYNt7gOLZW3c0wNwGqO7cqAFcNMRT3SMnQj+TqzQy3klJvqMiPBgMxkfErBtpXlVHJwMKTH5DA=="
 }
