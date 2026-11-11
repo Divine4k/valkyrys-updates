@@ -1,17 +1,23 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.2.1.zip",
-  "sha256": "e3b475dc784efd83382bf7964814dea1896d895d8d613693b235c42a26d9ae56",
-  "size": 2240837,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.0.zip",
+  "sha256": "96723542f55a17afc7100ebab6376a75de0412c4f377ffdbeac7fce2577b3262",
+  "size": 2286841,
   "minLoader": 1,
   "notes": [
     {
-      "type": "improved",
-      "nl": "De grafiek bij Statistieken zegt meer: een lichte schaal in euro’s, een stippellijn met het gemiddelde per periode, het bedrag boven de hoogste staaf en een markering bij de huidige periode. Per week staan de maanden eronder. Wijs een staaf aan (of ga er met de pijltjestoetsen langs) voor de periode, het bedrag, het aantal facturen en de dagen; klik erop voor de details, net als in de tabel.",
-      "en": "The chart in Statistics tells you more: a light scale in euros, a dashed line with the average per period, the amount above the highest bar and a marker at the current period. By week, the months are shown underneath. Point at a bar (or move along them with the arrow keys) for the period, amount, number of invoices and days; click it for the details, just like in the table.",
-      "pl": "Wykres w Statystykach mówi więcej: delikatna skala w euro, przerywana linia ze średnią na okres, kwota nad najwyższym słupkiem i oznaczenie bieżącego okresu. W widoku tygodniowym pod spodem widać miesiące. Wskaż słupek (lub przechodź po nich strzałkami), aby zobaczyć okres, kwotę, liczbę faktur i dni; kliknij, aby zobaczyć szczegóły, tak jak w tabeli."
+      "type": "new",
+      "nl": "Inkooporders uit je e-mail: koppel Gmail, WP Poczta of een andere e-maildienst bij Instellingen › Verbindingen. De app haalt mails „Inkooporder PO-…” met de PDF zelf op en zet de PDF in je map met inkooporders, elke 5 minuten zolang de app openstaat. Aan je mail zelf verandert niets.",
+      "en": "Purchase orders from your email: connect Gmail, WP Poczta or another email service in Settings › Connections. The app fetches “Inkooporder PO-…” mails with the PDF by itself and puts the PDF in your purchase order folder, every 5 minutes while the app is open. Nothing in your mail itself changes.",
+      "pl": "Zamówienia zakupu z poczty: połącz Gmail, WP Pocztę lub inną pocztę w Ustawienia › Połączenia. Aplikacja sama pobiera maile „Inkooporder PO-…” z PDF-em i zapisuje PDF w folderze z zamówieniami zakupu, co 5 minut, gdy aplikacja jest otwarta. W samej poczcie nic się nie zmienia."
+    },
+    {
+      "type": "new",
+      "nl": "Een melding onderaan het scherm als er inkooporders uit je e-mail zijn opgehaald, ook als dat gebeurde vlak na het openen. Staat de app op de achtergrond, dan krijg je een Windows-melding en knippert de app in de taakbalk. Bij Verbindingen kies je of nieuwe inkooporders automatisch gedownload worden of dat de app het eerst vraagt.",
+      "en": "A notice at the bottom of the screen when purchase orders were fetched from your email, also when that happened right after opening. When the app is in the background you get a Windows notification and the app flashes in the taskbar. In Connections you choose whether new purchase orders are downloaded automatically or the app asks first.",
+      "pl": "Powiadomienie na dole ekranu, gdy z poczty pobrano zamówienia zakupu, także tuż po otwarciu aplikacji. Gdy aplikacja jest w tle, dostajesz powiadomienie Windows, a aplikacja miga na pasku zadań. W Połączeniach wybierasz, czy nowe zamówienia mają być pobierane automatycznie, czy aplikacja ma najpierw zapytać."
     }
   ],
-  "signature": "HB+hAskJ/orY4zEkYCPfbX4cTfsK995eqzUH18j62iVwr4tYyrcf3wqZ81S9D89ll5rv0JlWFV9MNpnowqJ/Ag=="
+  "signature": "vUeRXNy71f7s7DNLdQ/HfFTE4AEp9xuhPtRLlRgmkjkusBF5l1kigZ6LF2izH6ltdj9z5RtdRP2hgZPH0j9LDg=="
 }
