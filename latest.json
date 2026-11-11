@@ -1,10 +1,17 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.1.zip",
-  "sha256": "3a4b6b1d55c057a579e5644264462d70c367b97e9fa79719839f828f10f65236",
-  "size": 2287719,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.3.2.zip",
+  "sha256": "8ae2ca1a3e317828bc95cb04d35a032828f3140965d956282d9a290998edfb3e",
+  "size": 2291018,
   "minLoader": 1,
-  "notes": [],
-  "signature": "zbQS/RfUzq7HSdAQOaL7X5f/Vbxk2u+utSZ5ce840N9UnMJCHi4Hb6xCBnu4fMlbk9XJPkfQpnAAuXZk9MdmBg=="
+  "notes": [
+    {
+      "type": "new",
+      "nl": "Factuur zonder inkooporder: klik op + Nieuw naast het factuurnummer, bijvoorbeeld voor een andere klant.",
+      "en": "Invoice without a purchase order: click + New next to the invoice number, for example for another client.",
+      "pl": "Faktura bez zamówienia: kliknij + Nowa obok numeru faktury, na przykład dla innego klienta."
+    }
+  ],
+  "signature": "tIkisxIEY/+fkP8TQ90aBAKIq8NCIMzKBfPCzHtqslSCFUc3bmkOKZDZeI9dfrzZyQg0K24rvWjWmi0xA0ddBw=="
 }
