@@ -1,10 +1,10 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "date": "2026-11-16",
-  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.4.1.zip",
-  "sha256": "688884875ce5a48a5755bcc2784e15e2280651397ac33f5ec1bf1c015cf61a5f",
-  "size": 2328532,
+  "url": "https://raw.githubusercontent.com/Divine4k/valkyrys-updates/main/packages/valkyrys-app-1.4.2.zip",
+  "sha256": "ba296d77905f06145c20dd094f054cf37356a54fb1444565ad33505ac2a15eca",
+  "size": 2329287,
   "minLoader": 1,
   "notes": [],
-  "signature": "FeIt2PT+ATdc/7RLme2nwuW1eOKOzN3vCTrwVHjz84MXMh38ry+LdruHsFChLwoCbk9Xv6U61lGoysxYgFW+CA=="
+  "signature": "6g+vzZ+jTHP3UPWa9WhYBVbCKb7QH7MLzGaLaaQQ5UgGg5eUQ4Sf8YJz8W+NRYhBkMWO8j8w14xvhm33OW9SBw=="
 }
